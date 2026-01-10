@@ -1,0 +1,10 @@
+# Microsoft Word temporary lock files
+~$*.doc*
+$~*.doc*
+
+# Office temp files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
